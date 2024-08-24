@@ -1,4 +1,4 @@
-# Hearing Impairment Assistant
+# audio-to-sign-language-converter
 
 This project aims to assist individuals with hearing impairments by translating spoken words into visual representations using sign language GIFs and images of letters. The application leverages speech recognition to identify spoken words and display corresponding sign language animations or images.
 
